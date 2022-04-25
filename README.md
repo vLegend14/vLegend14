@@ -18,3 +18,5 @@ Discord: [⁶⁶⁶©🇨🇱#4555](https://discord.com/users/416792860461891595
     <img src="https://lanyard-profile-readme.vercel.app/api/416792860461891595?animated=true" align="left" height="205">
   </a>
 </div>
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/416792860461891595)](https://discord.com/users/416792860461891595)
