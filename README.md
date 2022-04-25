@@ -7,7 +7,7 @@
 Discord: [⁶⁶⁶©🇨🇱#4555](https://discord.com/users/416792860461891595)
 
 <br>
-[![vLegend's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![vLegend's GitHub stats](https://github-readme-stats.vercel.app/api?username=vLegend14)](https://github.com/vLegend14/github-readme-stats)
 
 [![Discord](https://img.shields.io/static/v1?label=Discord&message=⁶⁶⁶©🇨🇱%234555&color=blue&style=for-the-badge)](https://discord.com/users/416792860461891595)
 
