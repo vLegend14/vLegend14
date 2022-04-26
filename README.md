@@ -1,7 +1,7 @@
 ### vLegend14
 
 - **Self taught programmer**
-- **Programming languages:** Javascript, Java, Python and C#
+- **Programming languages:** `Javascript`, `Java`, `Python` and `C#`
 - **Code editor / IDE:** `Visual Studio Code` - `Visual Studio`
 
 ## Discord
