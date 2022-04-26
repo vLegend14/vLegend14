@@ -1,4 +1,4 @@
-### vLegend14
+# vLegend
 
 - **Self taught programmer**
 - **Programming languages:** `Javascript`, `Java`, `Python` and `C#`
