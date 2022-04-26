@@ -1,4 +1,4 @@
-# vLegend
+# __vLegend__
 
 - **Self taught programmer**
 - **Programming languages:** `Javascript`, `Java`, `Python` and `C#`
