@@ -1,7 +1,7 @@
 # ◈ vLegend ◈
 
 - **Self taught programmer**
-- **Favorite Programming languages:** `Javascript` and `C#`
+- **Favorite Programming languages:** `Javascript (nodejs)` and `C#`
 - **Code editor / IDE:** `Visual Studio Code` - `Visual Studio`
 
 <h2 align="left">⚙ Languages and Tools:</h3>
