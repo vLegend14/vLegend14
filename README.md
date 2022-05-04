@@ -15,11 +15,11 @@
 ## 🌐 Discord
 [![Discord Presence](https://lanyard.cnrad.dev/api/416792860461891595)](https://discord.com/users/416792860461891595)
 
-## 🎮 
+## 🎮 Games
 [![Osu!](https://img.shields.io/static/v1?label=Osuprofile&message=Clickme&color=blue&style=for-the-badge)](https://osu.ppy.sh/users/19532142)
 
 [![Steam](https://img.shields.io/static/v1?label=Steamprofile&message=Clickme&color=blue&style=for-the-badge)](https://steamcommunity.com/profiles/76561199087769689/)
 
-[![Genshin Impact](https://img.shields.io/static/v1?label=GenshinImpact&message=UID&color=blue&style=for-the-badge)](https://genshin.hoyoverse.com/)
+[![Genshin Impact](https://img.shields.io/static/v1?label=GenshinImpactUID&message=UID&color=blue&style=for-the-badge)](https://genshin.hoyoverse.com/)
 
 [![Minecraft](https://img.shields.io/static/v1?label=Minecraft&message=Clickme&color=blue&style=for-the-badge)](https://es.namemc.com/profile/vLegend_.3)
