@@ -20,4 +20,6 @@
 
 [![Steam](https://img.shields.io/static/v1?label=Steamprofile&message=Clickme&color=blue&style=for-the-badge)](https://steamcommunity.com/profiles/76561199087769689/)
 
-[![Genshin Impact](https://img.shields.io/static/v1?label=GenshinImpact&message=UID&color=blue&style=for-the-badge)](https://steamcommunity.com/profiles/76561199087769689/)
+[![Genshin Impact](https://img.shields.io/static/v1?label=GenshinImpact&message=UID&color=blue&style=for-the-badge)](https://genshin.hoyoverse.com/)
+
+[![Minecraft](https://img.shields.io/static/v1?label=Minecraft&message=Clickme&color=blue&style=for-the-badge)](https://es.namemc.com/profile/vLegend_.3)
