@@ -25,7 +25,7 @@ Strong interest in understanding systems from a low-level perspective and buildi
 
 ## 💻 Programming Languages
 
-`JavaScript (Node.js)` · `Python` · `C#` · `Java`
+`JavaScript (Node.js)` · `Python` · `C#` · `Java`  `C/C++`
 
 ---
 
