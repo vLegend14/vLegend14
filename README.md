@@ -25,7 +25,7 @@ Basic embedded development · hardware interaction · experimentation
 
 ## 💻 Programming Languages
 
-`JavaScript` · `TypeScript` · `Python` · `C#` · `Java` · `C` · `C++`
+`JavaScript/TypeScript (Node.js/express.js)` · `Python` · `C#` · `Java(Spring boot)` · `C/C++`
 
 ---
 
