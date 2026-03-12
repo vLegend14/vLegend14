@@ -109,7 +109,7 @@ Logic-focused services and backend utilities.
 Small projects combining software logic and hardware interaction.
 
 **Discord Bot — paused (~70%)**  
-Utility and moderation bot built with Node.js.
+Discord bot built with Node.js.
 
 ---
 
