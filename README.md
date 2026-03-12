@@ -1,4 +1,5 @@
-# ◈ vLegend ◈
+---
+# vLegend
 
 **Self-taught programmer** focused on **cybersecurity (purple team)**,  
 **operating systems**, **automation**, **backend development**, and **basic embedded systems**.
