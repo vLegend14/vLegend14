@@ -1,4 +1,3 @@
----
 # vLegend
 
 **Self-taught programmer** focused on **cybersecurity (purple team)**,  
