@@ -111,9 +111,6 @@ Small projects combining software logic and hardware interaction.
 **Discord Bot — paused (~70%)**  
 Utility and moderation bot built with Node.js.
 
-**Web demo (Astro + Tailwind) — punctual**  
-Static site created for a specific use case.
-
 ---
 
 ## 🌐 Presence
@@ -133,13 +130,3 @@ Static site created for a specific use case.
 [![Minecraft](https://img.shields.io/static/v1?label=Minecraft&message=Profile&color=blue&style=for-the-badge)](https://es.namemc.com/profile/vLegend_.3)
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=vLegend&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vLegend&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
