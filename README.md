@@ -75,8 +75,6 @@ I like building things that cross software and hardware. Understanding how somet
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/416792860461891595)](https://discord.com/users/416792860461891595)
 
-🔗 [LinkedIn](https://linkedin.com/in/your-profile) · ✉️ [Email](mailto:your.email@example.com)
-
 ---
 
 ## 🎮 Outside code
